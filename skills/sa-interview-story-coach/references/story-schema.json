@@ -1,0 +1,71 @@
+{
+  "id": "company-short-descriptive-slug",
+  "title": "Human-readable story title",
+  "company": "Company",
+  "role": "Candidate role",
+  "timeframe": "Exact period if known; otherwise mark to verify",
+  "shortSummary": "2-3 sentences explaining the situation, what the candidate did, and why the story matters.",
+  "situation": "Customer/account context, opportunity context, business problem, technical environment, and stakes.",
+  "task": "What the candidate was personally responsible for accomplishing and what success looked like.",
+  "actions": [
+    "Specific action the candidate took.",
+    "Discovery the candidate conducted.",
+    "Technical or architectural work the candidate owned.",
+    "How the candidate partnered with Sales, Product, Engineering, or another stakeholder.",
+    "How the candidate navigated disagreement, risk, or ambiguity.",
+    "How the candidate followed through."
+  ],
+  "results": [
+    "Customer outcome.",
+    "Sales/business outcome.",
+    "Technical or product outcome.",
+    "Measurable or credible supporting evidence."
+  ],
+  "fullStory": "Complete interview-ready narrative in the candidate's natural speaking style.",
+  "proofPoints": [
+    "Concrete evidence supporting the story.",
+    "Commercial or customer evidence.",
+    "Technical evidence.",
+    "Cross-functional evidence."
+  ],
+  "competencies": [
+    "Stakeholder Management",
+    "Customer Empathy",
+    "Strategic Thinking"
+  ],
+  "interviewQuestions": [
+    "Questions this story is especially strong for."
+  ],
+  "technicalTopics": [
+    "Relevant technologies, products, architecture patterns, or domains."
+  ],
+  "metrics": {
+    "dealSize": "Only if verified",
+    "timeframe": "If relevant",
+    "customerImpact": "If measurable",
+    "pipelineImpact": "If verified"
+  },
+  "peopleInvolved": [
+    "Account Executive",
+    "Customer engineering team",
+    "Product",
+    "Engineering"
+  ],
+  "lessonsLearned": [
+    "What the candidate learned.",
+    "What changed in how the candidate operates afterward."
+  ],
+  "followUpQuestions": [
+    "Questions an interviewer is likely to ask to pressure-test the story."
+  ],
+  "confidentiality": {
+    "level": "Public-safe | Confidential customer-safe | Internal-only | Needs review",
+    "guidance": "How to safely describe the story."
+  },
+  "status": "Draft - needs verification | Interview-ready | Needs update",
+  "sourceNotes": [
+    "Where the story came from.",
+    "Facts or metrics that still need verification."
+  ],
+  "updatedAt": "ISO-8601 timestamp"
+}

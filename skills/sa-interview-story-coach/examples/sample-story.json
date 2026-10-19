@@ -1,0 +1,75 @@
+{
+  "id": "acme-payment-discovery-redirection",
+  "title": "Discovery Redirected the Customer to a Better-Fit Architecture",
+  "company": "ExampleCo",
+  "role": "Solutions Architect",
+  "timeframe": "To verify",
+  "shortSummary": "A customer initially requested a feature in one product, but discovery revealed that their real problem was scale and isolation. The SA declined to promise an unsupported roadmap change and redirected the conversation toward a better-fit architecture, which the customer then chose to evaluate.",
+  "situation": "A high-volume customer asked for a feature that the current product did not support on their timeline.",
+  "task": "Understand the underlying outcome, determine whether the requested feature was actually the right solution, and recommend a supportable path without overselling the roadmap.",
+  "actions": [
+    "Asked why the requested feature mattered rather than treating it as the requirement.",
+    "Mapped the customer's scale, workload, timeline, and isolation needs.",
+    "Recognized that an adjacent architecture better fit the underlying problem.",
+    "Explained the limitation candidly and proposed the alternate path despite initial resistance.",
+    "Connected the customer to the relevant Product team after they chose to explore the alternative."
+  ],
+  "results": [
+    "The customer moved from requesting an unsupported feature to evaluating a better-fit architecture.",
+    "The SA preserved trust by avoiding a roadmap promise that could not be supported.",
+    "Exact commercial outcome remains to verify."
+  ],
+  "fullStory": "Keep this in the candidate's natural voice. Do not memorize a script.",
+  "proofPoints": [
+    "Discovery changed the recommendation.",
+    "The candidate did not sell vaporware.",
+    "The customer independently chose to explore the alternative."
+  ],
+  "competencies": [
+    "Discovery",
+    "Customer Empathy",
+    "Strategic Thinking",
+    "Commercial Judgment",
+    "Objection Handling"
+  ],
+  "interviewQuestions": [
+    "Walk me through how you conduct discovery.",
+    "Tell me about a time discovery changed your recommendation.",
+    "Tell me about a time you pushed back on a customer's requested solution."
+  ],
+  "technicalTopics": [
+    "Architecture",
+    "Scalability",
+    "Product fit"
+  ],
+  "metrics": {
+    "dealSize": "To verify",
+    "timeframe": "To verify",
+    "customerImpact": "Customer evaluated better-fit solution",
+    "pipelineImpact": "To verify"
+  },
+  "peopleInvolved": [
+    "Customer technical stakeholder",
+    "Account Executive",
+    "Solutions Architect",
+    "Product"
+  ],
+  "lessonsLearned": [
+    "Discovery is not requirements collection.",
+    "A trusted advisor should understand the outcome before prescribing a product."
+  ],
+  "followUpQuestions": [
+    "What specific discovery question changed your understanding?",
+    "Why was the original request a poor fit?",
+    "What was the sales outcome?"
+  ],
+  "confidentiality": {
+    "level": "Public-safe",
+    "guidance": "Use generic customer labels unless disclosure is approved."
+  },
+  "status": "Example",
+  "sourceNotes": [
+    "Synthetic example illustrating the framework; not a real candidate story."
+  ],
+  "updatedAt": "2026-10-18T00:00:00-05:00"
+}
