@@ -16,6 +16,24 @@ Learning:
 - One architecture curveball or objection: `architecture-sparring`
 - Review, gaps, flashcards, study plan: `learning-consolidator`
 
+Session content (client coaching sessions):
+
+- Two per-person mic recordings → speaker-labeled transcript: `dual-mic-transcript`
+- Transcript → study guide, flashcards, quiz, podcast script: `session-learning-kit`
+- Edited podcast script → new MP3: `session-podcast`
+- Client session audio and text stay local by default; ask before using any cloud model.
+
+Workflow:
+
+- Pass work to a fresh agent, or write or audit HANDOFF.md: `handoff`
+
+ATX Workshops operations (draft only; the owner sends):
+
+- Reply to a prospect about a workshop or offer: `value-first-customer-reply`
+- Stripe payment arrived: `atxworkshops-payment-confirm`
+- Paid in-person session booked: `in-person-client-session-setup`
+- Deck final, build client Docs: `client-workshop-artifacts`
+
 Combine skills only when the request needs more than one mode. Do not activate every skill by default.
 
 ## Pedagogy

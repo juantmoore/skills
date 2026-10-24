@@ -32,6 +32,33 @@ scripts/    symlink skills into agent skill directories
 | `architecture-sparring` | One-question architecture curveballs and objections |
 | `learning-consolidator` | Grading practice and writing only the cards you need |
 
+### Session content (coaching / workshops)
+
+| Skill | Use when |
+| --- | --- |
+| `dual-mic-transcript` | Two lav-mic recordings (one per person) → one speaker-labeled, timestamped transcript, locally; optional hybrid with a Wispr Flow / Otter transcript |
+| `session-learning-kit` | Transcript → study guide, flashcards (Anki), quiz, and podcast script on a local LLM |
+| `session-podcast` | Render or re-render a two-host podcast MP3 from an (edited) script with Kokoro TTS |
+
+These three run as a chain: transcript → learning kit → podcast. Each has a `scripts/` folder; all processing is local.
+
+### Workflow
+
+| Skill | Use when |
+| --- | --- |
+| `handoff` | Passing work to a fresh agent: write or audit `HANDOFF.md` against a 10-section checklist, then produce a kickoff prompt (`/handoff` in Claude Code) |
+
+### ATX Workshops operations (from grok-bot)
+
+| Skill | Use when |
+| --- | --- |
+| `value-first-customer-reply` | Replying to a prospect about a workshop or service: lead with outcomes, book a discovery call; price comes in the proposal |
+| `atxworkshops-payment-confirm` | A Stripe payment arrives: draft the confirmation email and calendar holds for the owner to send |
+| `in-person-client-session-setup` | A paid in-person session is booked: client folder, invite, Know Before You Go guide, readiness checklist, recording and delivery |
+| `client-workshop-artifacts` | The workshop deck is final: build the client's Business Context report and agent instruction Docs |
+
+These follow the Customer Workshop Playbook and only draft client email; the owner reviews and sends.
+
 ## Use with other agents
 
 Link this repo so edits here show up everywhere:

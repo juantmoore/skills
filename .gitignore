@@ -3,3 +3,5 @@
 .env.*
 *.log
 context/learning-log.md
+__pycache__/
+*.pyc
